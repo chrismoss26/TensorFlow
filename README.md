@@ -1,8 +1,6 @@
-<<<<<<< HEAD
+
 # What's New In TensorFlow 2.x
-=======
-# What's New in TensorFlow 2.x
->>>>>>> b1c1d8599d153db9bbce3e28faa1b78ff8110628
+
 
 The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
 
